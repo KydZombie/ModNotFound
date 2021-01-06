@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "modnotfound:nan_block"
+  },
+  "result": "modnotfound:nan_pieces",
+  "experience": 0.7,
+  "cookingtime": 100
+}

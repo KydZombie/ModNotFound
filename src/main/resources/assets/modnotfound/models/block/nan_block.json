@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "modnotfound:block/nan_block_top",
+    "side": "modnotfound:block/nan_block_side"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "addition": {
+    "item": "modnotfound:nanite_ingot"
+  },
+  "result": {
+    "item": "modnotfound:nanite_pickaxe"
+  }
+}

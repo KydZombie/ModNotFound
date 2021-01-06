@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "addition": {
+    "item": "modnotfound:nanite_ingot"
+  },
+  "result": {
+    "item": "modnotfound:nanite_axe"
+  }
+}

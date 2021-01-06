@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "addition": {
+    "item": "modnotfound:nanite_ingot"
+  },
+  "result": {
+    "item": "modnotfound:nanite_shovel"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modnotfound:nan_pieces"
+    },
+    {
+      "item": "modnotfound:nan_pieces"
+    },
+    {
+      "item": "modnotfound:nan_pieces"
+    },
+    {
+      "item": "modnotfound:nan_pieces"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "modnotfound:nanite_ingot",
+    "count": 1
+  }
+}

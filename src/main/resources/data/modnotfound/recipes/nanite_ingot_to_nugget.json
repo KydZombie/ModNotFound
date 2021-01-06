@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modnotfound:nanite_ingot"
+    }
+  ],
+  "result": {
+    "item": "modnotfound:nanite_nugget",
+    "count": 9
+  }
+}
